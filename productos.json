@@ -1,0 +1,172 @@
+[
+{
+    "id": "camisetas-01",
+    "titulo": "REMERAS OVERSIZE SPACE HAC",
+    "imagen": "../assets/img/remeras/REMERA-52A.png",
+    "categoria": {
+        "nombre": "camisetas",
+        "id": "camisetas"
+    },
+    "precio": 7920
+},
+{
+    "id": "camisetas-02",
+    "titulo": "REMERA OVERSIZE SPACE BILLY",
+    "imagen": "../assets/img/remeras/REMERA-53.png",
+    "categoria": {
+        "nombre": "camisetas",
+        "id": "camisetas"
+    },
+    "precio": 6480
+},
+{
+    "id": "camisetas-03",
+    "titulo": "REMERA OVERSIZE SPACE ANGELS",
+    "imagen": "../assets/img/remeras/REMERA-ANGELS-TUSSY-1-300x300.jpg",
+    "categoria": {
+        "nombre": "camisetas",
+        "id": "camisetas"
+    },
+    "precio": 5760
+},
+{
+    "id": "camisetas-04",
+    "titulo": "REMERA OVERSIZE SPACE ARC",
+    "imagen": "../assets/img/remeras/REMERA-ARC-TUSSY-3-300x300.jpg",
+    "categoria": {
+        "nombre": "camisetas",
+        "id": "camisetas"
+    },
+    "precio": 6120
+},
+{
+    "id": "camisetas-05",
+    "titulo": "REMERA OVERSIZE SPACE KOLA",
+    "imagen": "../assets/img/remeras/REMERA-KOLA-TUSSY-1-300x300.jpg",
+    "categoria": {
+        "nombre": "camisetas",
+        "id": "camisetas"
+    },
+    "precio": 6200
+},
+{
+    "id": "camisetas-06",
+    "titulo": "REMERA OVERSIZE SPACE SCOTT",
+    "imagen": "../assets/img/remeras/REMERA-SCOTT-TUSSY-300x300.jpg",
+    "categoria": {
+        "nombre": "camisetas",
+        "id": "camisetas"
+    },
+    "precio": 5760
+},
+{
+    "id": "abrigos-01",
+    "titulo": "BUZO SPACE CUELLO REDONDO",
+    "imagen": "../assets/img/buzos/Buzo-16B.png",
+    "categoria": {
+        "nombre": "abrigos",
+        "id": "abrigos"
+    },
+    "precio": 10260
+},
+{
+    "id": "abrigos-02",
+    "titulo": "BUZO OVERSIZE SPACE SCOTT",
+    "imagen": "../assets/img/buzos/Buzo-18A.png",
+    "categoria": {
+        "nombre": "abrigos",
+        "id": "abrigos"
+    },
+    "precio": 10260
+},
+{
+    "id": "abrigos-03",
+    "titulo": "BUZO SPACE OVERSIZE SPACE",
+    "imagen": "../assets/img/buzos/Buzo-20.png",
+    "categoria": {
+        "nombre": "abrigos",
+        "id": "abrigos"
+    },
+    "precio": 11970
+},
+{
+    "id": "abrigos-04",
+    "titulo": "BUZO OVERSIZE SPACE TRASH",
+    "imagen": "../assets/img/buzos/BUZO-78.png",
+    "categoria": {
+        "nombre": "abrigos",
+        "id": "abrigos"
+    },
+    "precio": 10350
+},
+{
+    "id": "abrigos-05",
+    "titulo": "BUZO OVERSIZE SPACE ZXO",
+    "imagen": "../assets/img/buzos/buzo-space-1-300x300.jpg",
+    "categoria": {
+        "nombre": "abrigos",
+        "id": "abrigos"
+    },
+    "precio": 11970
+},
+{
+    "id": "abrigos-06",
+    "titulo": "BUZO OVERSIZE SPACE FURIOR",
+    "imagen": "../assets/img/buzos/furior-3.jpg",
+    "categoria": {
+        "nombre": "abrigos",
+        "id": "abrigos"
+    },
+    "precio": 12150
+},
+{
+    "id": "pantalon-01",
+    "titulo": "BERMUDA OVERSIZE SPACE BILLY",
+    "imagen": "../assets/img/shorts/bermuda-billi.png",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 7290
+},
+{
+    "id": "pantalon-02",
+    "titulo": "BERMUDA OVERSIZE SPACE FURIOR",
+    "imagen": "../assets/img/shorts/Short-5.png",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 7290
+},
+{
+    "id": "pantalon-03",
+    "titulo": "BERMUDA OVERSIZE SPACE ARC",
+    "imagen": "../assets/img/shorts/Short-7.png",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 8910
+},
+{
+    "id": "pantalon-04",
+    "titulo": "BERMUDA OVERSIZE SPACE TRASH",
+    "imagen": "../assets/img/shorts/Short-8A.png",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 7560
+},
+{
+    "id": "pantalon-05",
+    "titulo": "BERMUDA OVERSIZE SPACE ILLEGAL",
+    "imagen": "../assets/img/shorts/Short-9C.png",
+    "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+    },
+    "precio": 7380
+}
+]
